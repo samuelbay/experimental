@@ -1,0 +1,118 @@
+--- !ruby/object:Gem::Specification 
+name: machine.specifications
+version: !ruby/object:Gem::Version 
+  hash: 87
+  prerelease: false
+  segments: 
+  - 0
+  - 3
+  - 0
+  - 0
+  version: 0.3.0.0
+platform: ruby
+authors: 
+- Aaron Jensen
+- "Alexander Gro\xC3\x9F"
+autorequire: 
+bindir: bin
+cert_chain: []
+
+date: 2010-08-17 00:00:00 -05:00
+default_executable: 
+dependencies: []
+
+description: Machine.Specifications is a Context/Specification framework geared towards removing language noise and simplifying tests.
+email: agross@therightstuff.de
+executables: []
+
+extensions: []
+
+extra_rdoc_files: []
+
+files: 
+- lib/net35/CommandLine.dll
+- lib/net35/InstallResharperRunner.4.1.bat
+- lib/net35/InstallResharperRunner.4.5.bat
+- lib/net35/InstallResharperRunner.5.0 - VS2008.bat
+- lib/net35/InstallResharperRunner.5.0 - VS2010.bat
+- lib/net35/InstallResharperRunner.5.1 - VS2008.bat
+- lib/net35/InstallResharperRunner.5.1 - VS2010.bat
+- lib/net35/InstallTDNetRunner.bat
+- lib/net35/InstallTDNetRunnerSilent.bat
+- lib/net35/Machine.Specifications.dll
+- lib/net35/Machine.Specifications.dll.tdnet
+- lib/net35/Machine.Specifications.GallioAdapter.3.1.dll
+- lib/net35/Machine.Specifications.GallioAdapter.plugin
+- lib/net35/Machine.Specifications.Reporting.dll
+- lib/net35/Machine.Specifications.Reporting.Templates.dll
+- lib/net35/Machine.Specifications.ReSharperRunner.4.1.dll
+- lib/net35/Machine.Specifications.ReSharperRunner.4.5.dll
+- lib/net35/Machine.Specifications.ReSharperRunner.5.0.dll
+- lib/net35/Machine.Specifications.ReSharperRunner.5.1.dll
+- lib/net35/Machine.Specifications.SeleniumSupport.dll
+- lib/net35/Machine.Specifications.TDNetRunner.dll
+- lib/net35/Machine.Specifications.WatinSupport.dll
+- lib/net35/mspec.exe
+- lib/net35/Newtonsoft.Json.dll
+- lib/net35/Spark.dll
+- lib/net35/TestDriven.Framework.dll
+- lib/net35/ThoughtWorks.Selenium.Core.dll
+- lib/net35/WatiN.Core.dll
+- lib/net40/CommandLine.dll
+- lib/net40/InstallResharperRunner.5.0 - VS2008.bat
+- lib/net40/InstallResharperRunner.5.0 - VS2010.bat
+- lib/net40/InstallResharperRunner.5.1 - VS2008.bat
+- lib/net40/InstallResharperRunner.5.1 - VS2010.bat
+- lib/net40/InstallTDNetRunner.bat
+- lib/net40/InstallTDNetRunnerSilent.bat
+- lib/net40/Machine.Specifications.dll
+- lib/net40/Machine.Specifications.dll.tdnet
+- lib/net40/Machine.Specifications.Reporting.dll
+- lib/net40/Machine.Specifications.Reporting.Templates.dll
+- lib/net40/Machine.Specifications.ReSharperRunner.5.0.dll
+- lib/net40/Machine.Specifications.ReSharperRunner.5.1.dll
+- lib/net40/Machine.Specifications.SeleniumSupport.dll
+- lib/net40/Machine.Specifications.TDNetRunner.dll
+- lib/net40/Machine.Specifications.WatinSupport.dll
+- lib/net40/mspec.exe
+- lib/net40/Newtonsoft.Json.dll
+- lib/net40/Spark.dll
+- lib/net40/TestDriven.Framework.dll
+- lib/net40/ThoughtWorks.Selenium.Core.dll
+- lib/net40/WatiN.Core.dll
+has_rdoc: true
+homepage: http://github.com/machine/machine.specifications
+licenses: []
+
+post_install_message: 
+rdoc_options: []
+
+require_paths: 
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement 
+  none: false
+  requirements: 
+  - - ">="
+    - !ruby/object:Gem::Version 
+      hash: 3
+      segments: 
+      - 0
+      version: "0"
+required_rubygems_version: !ruby/object:Gem::Requirement 
+  none: false
+  requirements: 
+  - - ">="
+    - !ruby/object:Gem::Version 
+      hash: 3
+      segments: 
+      - 0
+      version: "0"
+requirements: []
+
+rubyforge_project: machine.specifications
+rubygems_version: 1.3.7
+signing_key: 
+specification_version: 3
+summary: Machine.Specifications Context/Specification framework
+test_files: []
+
